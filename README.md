@@ -1,2 +1,6 @@
-# cython_test
-cython test
+#cython
+add static type definition to python,
+
+get 80% speed of C ??
+
+
